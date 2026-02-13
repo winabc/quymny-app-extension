@@ -2,22 +2,26 @@
   "extensions": [
     {
       "id": 1,
-      "name": "NovaScanner",
+      "name": "C/C++",
       "icon_url": "https://raw.githubusercontent.com/winabc/quymny-app-extension/refs/heads/main/engine/c,c++.png",
-      "short_details": "Fast secure web scanning.",
-      "full_details": "https://raw.githubusercontent.com/winabc/quymny-app-extension/refs/heads/main/engine/novascanner.txt",
-      "download_link": "https://example.com/app/nova.exe",
-      "owner": "Aether Labs",
+      "short_details": "C and C++ language support.",
+      "full_details": "https://raw.githubusercontent.com/winabc/quymny-app-extension/refs/heads/main/engine/c,c++.txt",
+      "download_link": {
+        "Windows_x64": "https://huggingface.co/datasets/guett/public-storage/resolve/main/quymny-app-extensions/engine/VC_redist.x64.exe?download=true",
+        "Windows x32": "https://huggingface.co/datasets/guett/public-storage/resolve/main/quymny-app-extensions/engine/VC_redist.x86.exe?download=true",
+        "Windows ARM64" "https://huggingface.co/datasets/guett/public-storage/resolve/main/quymny-app-extensions/engine/VC_redist.arm64.exe?download=true"
+       },
+      "owner": "By Microsoft",
+      "address": "microsoft.com";
       "installation": {
         "identifier": "com.aetherlabs.novascanner",
-        "last": "2.4.1",
-        "version": "2.4.0",
-        "last_update": "2024-05-15",
-        "size": "15.4MB",
-        "published": "2023-01-10",
-        "last_release": "2024-05-20"
+        "last": "1.30.4",
+        "version": "1.30.4",
+        "size": "17.7MB",
+        "published": "9 years ago",
+        "last_release": "3 years ago"
       },
-      "categories": ["security", "web-scanner", "debugger"]
+      "categories": ["language", "formating", "debugger"]
     },
     {
       "id": 2,
