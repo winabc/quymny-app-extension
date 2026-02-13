@@ -1,24 +1,30 @@
-#FULL NAME
-NovaScanner Professional Edition v2.0
+#C/C++ 
+C/C++ Language Support v1.30.4
 
 ##FULL DESCRIPTION
-NovaScanner is a comprehensive security tool designed to intercept 
-malicious scripts before they execute in your browser. It uses 
-AI-driven heuristics to identify zero-day threats.
+This extension adds language support for C and C++ to quymny Engine Used for destkop and mobile game developpement.
 
-##PRE-REQUISITES
-- Chrome Version 110 or higher
-- 2GB Minimum RAM
-- Active Internet Connection
+##UTILITIES & FONCTIONS
+This extension is packaged with "intelliSense" feature that make writing low-level code 
+much faster and less error-prone.
+on this extension, the
+   -IntelliSense is a smart code completion parameter info and members list base on your Include headers
+   -the debugging communitate with GDB(linux/window), LLDB or msvc to set breakpoints watch varriable, and set through code
+   -Formating is the automatic code styling using clang-format or vc-format allowing you to maintain a consistent style
 
-##UTILITIES
-- Real-time script blocking
-- Automated vulnerability reporting
-- One-click history cleaning
+##INSTALLATION PATH
+Quymny Engine doesn't stort extension in the main application folder insted the are kept in user-specifics directory so that different 
+user on the same machine can have different extension
+the default installation path are
+   -on windows: %USERSPROFILE%\quymnyEngine\extension   like C:\Users\UsersName\QuymnyEngine\extensions\ext_name
+   -on macOS ~/QuymnyEngine/extensions/
+   -linux ~/.QuymnyEngine/extensions/
 
-##QUICK LINK
-https://example.com/extension/service
-
-##QUESTION FEEDBACK
+##Key Distinction and Quick link
+It does not install a compiler for you. You must still install a compiler like GCC (MinGW), Clang, or MSVC separately.
 Please submit all bug reports or feature requests via our 
-community portal at https://support.example.com
+community portal at <https://support.example.com>
+
+##FOR MORE INFORMATION VISITE THE LINK below
+<https://support.example.com>read a blog aboout GCC and MSVC<>
+
