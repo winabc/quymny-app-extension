@@ -1,7 +1,6 @@
 #C/C++ 
 C/C++ Language Support v1.30.4
 
-##FULL DESCRIPTION
 This extension adds language support for C and C++ to quymny Engine Used for destkop and mobile game developpement.
 
 ##UTILITIES & FONCTIONS
