@@ -1,1 +1,25 @@
-//
+{
+  "extensions": [
+    {
+      "id": 1,
+      "name": "NovaScanner",
+      "icon_url": "https://example.com/icons/nova-icon.png",
+      "short_details": "Fast secure web scanning.",
+      "owner": "Aether Labs"
+    },
+    {
+      "id": 2,
+      "name": "ColorPick Pro",
+      "icon_url": "https://example.com/icons/cp-pro.png",
+      "short_details": "Instant hex code precision.",
+      "owner": "DesignFlow UI"
+    },
+    {
+      "id": 3,
+      "name": "TabMaster",
+      "icon_url": "https://example.com/icons/tm-logic.png",
+      "short_details": "Organize cluttered browser tabs.",
+      "owner": "Syntax Studio"
+    }
+  ]
+}
