@@ -1,15 +1,15 @@
 #C/C++ 
 C/C++ Language Support v1.30.4
 
-This extension adds language support for C and C++ to quymny Engine Used for destkop and mobile game developpement.
+This extension adds language support for C and C++ to quymny Engine you will need this for destkop and mobile game developpement.
 
 ##UTILITIES & FONCTIONS
 This extension is packaged with "intelliSense" feature that make writing low-level code 
 much faster and less error-prone.
 on this extension, the
-   -IntelliSense is a smart code completion parameter info and members list base on your Include headers
-   -the debugging communitate with GDB(linux/window), LLDB or msvc to set breakpoints watch varriable, and set through code
-   -Formating is the automatic code styling using clang-format or vc-format allowing you to maintain a consistent style
+   -"IntelliSense" is a smart code completion parameter info and members list base on your Include headers
+   -the "debugging" communitate with GDB(linux/window), LLDB or msvc to set breakpoints watch varriable, and set through code
+   -"Formating" is the automatic code styling using clang-format or vc-format allowing you to maintain a consistent style
 
 ##INSTALLATION PATH
 Quymny Engine doesn't stort extension in the main application folder insted the are kept in user-specifics directory so that different 
