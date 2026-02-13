@@ -22,7 +22,7 @@
     {
       "id": 2,
       "name": "ColorPick Pro",
-      "icon_url": "https://example.com/icons/cp-pro.png",
+      "icon_url": "https://raw.githubusercontent.com/winabc/quymny-app-extension/refs/heads/main/engine/c,c++.png",
       "short_details": "Instant hex code precision.",
       "full_details": "https://raw.githubusercontent.com/winabc/quymny-app-extension/refs/heads/main/engine/colorpick_pro.txt",
       "download_link": "https://example.com/app/colorPick.exe",
@@ -41,7 +41,7 @@
     {
       "id": 3,
       "name": "TabMaster",
-      "icon_url": "https://example.com/icons/tm-logic.png",
+      "icon_url": "https://raw.githubusercontent.com/winabc/quymny-app-extension/refs/heads/main/engine/c,c++.png",
       "short_details": "Organize cluttered browser tabs.",
       "full_details": "https://raw.githubusercontent.com/winabc/quymny-app-extension/refs/heads/main/engine/tabmaster.txt",
       "download_link": "https://example.com/app/tabmaster.exe",
