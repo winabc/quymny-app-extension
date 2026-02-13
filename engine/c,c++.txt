@@ -22,7 +22,7 @@ the default installation path are
 ##Key Distinction and Quick link
 It does not install a compiler for you. You must still install a compiler like GCC (MinGW), Clang, or MSVC separately.
 Please submit all bug reports or feature requests via our 
-community portal at <https://support.example.com>
+community portal at https://support.example.com
 
 ##FOR MORE INFORMATION VISITE THE LINK below
 <https://support.example.com>read a blog aboout GCC and MSVC<>
