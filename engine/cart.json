@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "NovaScanner",
-      "icon_url": "https://example.com/icons/nova-icon.png",
+      "icon_url": "https://raw.githubusercontent.com/winabc/quymny-app-extension/refs/heads/main/engine/c,c++.png",
       "short_details": "Fast secure web scanning.",
       "full_details": "https://raw.githubusercontent.com/winabc/quymny-app-extension/refs/heads/main/engine/novascanner.txt",
       "download_link": "https://example.com/app/nova.exe",
