@@ -7,7 +7,17 @@
       "short_details": "Fast secure web scanning.",
       "full_details": "https://raw.githubusercontent.com/winabc/quymny-app-extension/refs/heads/main/engine/novascanner.txt",
       "download_link": "https://example.com/app/nova.exe",
-      "owner": "Aether Labs"
+      "owner": "Aether Labs",
+      "installation": {
+        "identifier": "com.aetherlabs.novascanner",
+        "last": "2.4.1",
+        "version": "2.4.0",
+        "last_update": "2024-05-15",
+        "size": "15.4MB",
+        "published": "2023-01-10",
+        "last_release": "2024-05-20"
+      },
+      "categories": ["security", "web-scanner", "debugger"]
     },
     {
       "id": 2,
@@ -16,7 +26,17 @@
       "short_details": "Instant hex code precision.",
       "full_details": "https://raw.githubusercontent.com/winabc/quymny-app-extension/refs/heads/main/engine/colorpick_pro.txt",
       "download_link": "https://example.com/app/colorPick.exe",
-      "owner": "DesignFlow UI"
+      "owner": "DesignFlow UI",
+      "installation": {
+        "identifier": "ui.designflow.colorpickpro",
+        "last": "1.0.5",
+        "version": "1.0.5",
+        "last_update": "2024-06-01",
+        "size": "4.2MB",
+        "published": "2024-02-14",
+        "last_release": "2024-06-01"
+      },
+      "categories": ["design", "ui-ux", "frontend"]
     },
     {
       "id": 3,
@@ -25,7 +45,17 @@
       "short_details": "Organize cluttered browser tabs.",
       "full_details": "https://raw.githubusercontent.com/winabc/quymny-app-extension/refs/heads/main/engine/tabmaster.txt",
       "download_link": "https://example.com/app/tabmaster.exe",
-      "owner": "Syntax Studio"
+      "owner": "Syntax Studio",
+      "installation": {
+        "identifier": "io.syntaxstudio.tabmaster",
+        "last": "3.2.0",
+        "version": "3.1.9",
+        "last_update": "2024-05-28",
+        "size": "8.9MB",
+        "published": "2022-11-30",
+        "last_release": "2024-05-29"
+      },
+      "categories": ["productivity", "utilities", "programming language"]
     }
   ]
 }
