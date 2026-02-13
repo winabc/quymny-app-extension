@@ -1,24 +1,24 @@
-[FULL NAME]
+#FULL NAME
 NovaScanner Professional Edition v2.0
 
-[FULL DESCRIPTION]
+##FULL DESCRIPTION
 NovaScanner is a comprehensive security tool designed to intercept 
 malicious scripts before they execute in your browser. It uses 
 AI-driven heuristics to identify zero-day threats.
 
-[PRE-REQUISITES]
+##PRE-REQUISITES
 - Chrome Version 110 or higher
 - 2GB Minimum RAM
 - Active Internet Connection
 
-[UTILITIES]
+##UTILITIES
 - Real-time script blocking
 - Automated vulnerability reporting
 - One-click history cleaning
 
-[QUICK LINK]
+##QUICK LINK
 https://example.com/extension/service
 
-[QUESTION FEEDBACK]
+##QUESTION FEEDBACK
 Please submit all bug reports or feature requests via our 
 community portal at https://support.example.com
