@@ -9,7 +9,7 @@
       "download_link": {
         "Windows_x64": "https://huggingface.co/datasets/guett/public-storage/resolve/main/quymny-app-extensions/engine/VC_redist.x64.exe?download=true",
         "Windows x32": "https://huggingface.co/datasets/guett/public-storage/resolve/main/quymny-app-extensions/engine/VC_redist.x86.exe?download=true",
-        "Windows ARM64" "https://huggingface.co/datasets/guett/public-storage/resolve/main/quymny-app-extensions/engine/VC_redist.arm64.exe?download=true"
+        "Windows ARM64": "https://huggingface.co/datasets/guett/public-storage/resolve/main/quymny-app-extensions/engine/VC_redist.arm64.exe?download=true"
        },
       "owner": "By Microsoft",
       "address": "microsoft.com",
