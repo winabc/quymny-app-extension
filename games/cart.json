@@ -5,6 +5,7 @@
       "name": "NovaScanner",
       "icon_url": "https://example.com/icons/nova-icon.png",
       "short_details": "Fast secure web scanning.",
+      "full_details": "https://example.com/descriptions/novascanner.txt",
       "owner": "Aether Labs"
     },
     {
@@ -12,6 +13,7 @@
       "name": "ColorPick Pro",
       "icon_url": "https://example.com/icons/cp-pro.png",
       "short_details": "Instant hex code precision.",
+      "full_details": "https://yourdomain.com/data/colorpick_pro.txt",
       "owner": "DesignFlow UI"
     },
     {
@@ -19,6 +21,7 @@
       "name": "TabMaster",
       "icon_url": "https://example.com/icons/tm-logic.png",
       "short_details": "Organize cluttered browser tabs.",
+      "full_details": "https://yourdomain.com/data/tabmaster.txt",
       "owner": "Syntax Studio"
     }
   ]
