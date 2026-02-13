@@ -1,25 +1,25 @@
-[FULL NAME]
+#FULL NAME
 ColorPick Pro: Advanced Hex & RGB Eyedropper
 
-[FULL DESCRIPTION]
+##FULL DESCRIPTION
 ColorPick Pro is a high-performance color eyedropper tool designed for 
 web developers and digital artists. It allows for pixel-perfect color 
 selection from any webpage with built-in history and palette generation.
 
-[PRE-REQUISITES]
+##PRE-REQUISITES
 - Chromium-based browser (Chrome, Edge, Brave)
 - Hardware acceleration enabled for smooth zooming
 - Screen recording permissions (for eyedropper functionality)
 
-[UTILITIES]
+##UTILITIES
 - Real-time color magnification
 - Auto-copy to clipboard in HEX, RGB, or HSL
 - Color palette history storage
 - Contrast ratio checker for accessibility (WCAG)
 
-[QUICK LINK]
+##QUICK LINK
 https://example.com/extension/colorpick-pro/service
 
-[QUESTION FEEDBACK]
+##QUESTION FEEDBACK
 Report bugs or suggest new color formats at:
 https://feedback.colorpickpro.io
