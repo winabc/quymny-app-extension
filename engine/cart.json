@@ -6,6 +6,7 @@
       "icon_url": "https://example.com/icons/nova-icon.png",
       "short_details": "Fast secure web scanning.",
       "full_details": "https://raw.githubusercontent.com/winabc/quymny-app-extension/refs/heads/main/engine/novascanner.txt",
+      "download_link": "https://example.com/app/nova.exe",
       "owner": "Aether Labs"
     },
     {
@@ -14,6 +15,7 @@
       "icon_url": "https://example.com/icons/cp-pro.png",
       "short_details": "Instant hex code precision.",
       "full_details": "https://raw.githubusercontent.com/winabc/quymny-app-extension/refs/heads/main/engine/colorpick_pro.txt",
+      "download_link": "https://example.com/app/colorPick.exe",
       "owner": "DesignFlow UI"
     },
     {
@@ -22,6 +24,7 @@
       "icon_url": "https://example.com/icons/tm-logic.png",
       "short_details": "Organize cluttered browser tabs.",
       "full_details": "https://raw.githubusercontent.com/winabc/quymny-app-extension/refs/heads/main/engine/tabmaster.txt",
+      "download_link": "https://example.com/app/tabmaster.exe",
       "owner": "Syntax Studio"
     }
   ]
