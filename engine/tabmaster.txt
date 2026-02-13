@@ -1,24 +1,24 @@
-[FULL NAME]
+#FULL NAME
 TabMaster: Smart Browser Workspace Organizer
 
-[FULL DESCRIPTION]
+##FULL DESCRIPTION
 TabMaster solves "tab fatigue" by automatically grouping similar 
 websites and hibernating inactive tabs to save system memory. It 
 transforms a cluttered browser into a streamlined productivity hub.
 
-[PRE-REQUISITES]
+##PRE-REQUISITES
 - Minimum 4GB System RAM recommended
 - Extension syncing enabled (optional for multi-device use)
 
-[UTILITIES]
+##UTILITIES
 - AI-based automatic tab grouping
 - Memory-saver mode (suspends idle tabs)
 - Searchable tab command bar (Ctrl+K)
 - Export current session to CSV or JSON
 
-[QUICK LINK]
+##QUICK LINK
 https://example.com/extension/tabmaster/service
 
-[QUESTION FEEDBACK]
+##QUESTION FEEDBACK
 For technical support or feature requests, visit our 
 Discord community: https://discord.gg/tabmaster-app
